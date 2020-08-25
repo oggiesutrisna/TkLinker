@@ -1,16 +1,14 @@
 # TkLinker
-Tklinker is the world's first Graphical User Interface for shorting a link. Created in Python and u can use it. 
+Merupakan aplikasi berbasis Graphical User Interface yang mampu dimengerti oleh para user awam untuk mensortir link yang sangat panjang menjadi sangat pendek dan mudah untuk di salin. 
 
-# About
-Tklinker is created under PyCharm Community 2020.2 because, i don't know, its really buggy when i use Visual Studio Code. 
+# Cara Menggunakan
+masih belum bisa, karena masih berbentuk source-code. akan segera di revisi nanti 
 
-# How To Use
-You can do a few steps
+# Behind Tklinker
+ditulis menggunakan python 99%. Menggunakan library Tkinter, cv2 dan pyshorteners
 
-- Git clone and run from your editor. or maybe from Python Native Console. 
+# LICENSE
+Jangan khawatir, ni project open-source.
 
-# Why name is Tklinker
-Tklinker is the opposite name of the python-packages Tkinter.
-
-# License
-MIT
+# Kendala 
+Masalah di bagian pyinstaller, masih belum bisa dibuat exe dan cross-platform.
