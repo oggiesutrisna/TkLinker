@@ -28,8 +28,7 @@ def getLinker():
     canvas1.create_window(200, 230, window=label4)
 
 
-button1 = tk.Button(text='Get Shortner Link', command=getLinker, bg='black', fg='white',
-                    font=('helvetica', 9, 'bold'))
+button1 = tk.Button(text='Get Shortner Link', command=getLinker, bg='black', fg='white', font=('helvetica', 9, 'bold'))
 canvas1.create_window(200, 180, window=button1)
 
 root.mainloop()
