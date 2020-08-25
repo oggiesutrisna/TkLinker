@@ -6,7 +6,7 @@ root = tk.Tk()
 canvas1 = tk.Canvas(root, width=400, height=300, relief='raised')
 canvas1.pack()
 
-label1 = tk.Label(root, text='Shortner Link for Personal-Use')
+label1 = tk.Label(root, text='Shortner Link Personal Use version')
 label1.config(font=('helvetica', 14))
 canvas1.create_window(200, 25, window=label1)
 
