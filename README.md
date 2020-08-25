@@ -1,4 +1,4 @@
-<img src="../assets/screenshot_11.png">
+![Preview app] (/assets/Annotation 2020-08-25 221428)
 
 # TkLinker
 Merupakan aplikasi berbasis Graphical User Interface yang mampu dimengerti oleh para user awam untuk mensortir link yang sangat panjang menjadi sangat pendek dan mudah untuk di salin. 
