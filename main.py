@@ -18,7 +18,7 @@ entry1 = tk.Entry(root)
 canvas1.create_window(200, 140, window=entry1)
 
 
-def getSquareRoot():
+def getLinker():
     x1 = entry1.get()
 
     label3 = tk.Label(root, text='The Shortlink is ' + x1 + ' is:', font=('helvetica', 10))
@@ -28,7 +28,7 @@ def getSquareRoot():
     canvas1.create_window(200, 230, window=label4)
 
 
-button1 = tk.Button(text='Get Shortner Link', command=getSquareRoot, bg='brown', fg='white',
+button1 = tk.Button(text='Get Shortner Link', command=getLinker, bg='black', fg='white',
                     font=('helvetica', 9, 'bold'))
 canvas1.create_window(200, 180, window=button1)
 
